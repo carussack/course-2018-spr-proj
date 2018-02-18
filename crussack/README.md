@@ -1,4 +1,5 @@
 Purpose:
+
 Boston is home to a number of universities and colleges. I was curious if there was a difference in the cities basic infrustructure, including trtaffic lights, sidewalk, bus stops, and street lights in the areas where the schools are situated. I predicted that there would be better infrastructure surrounding these areas versus the areas of Boston that do not house an academic setting.
 
 
